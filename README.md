@@ -6,14 +6,12 @@ A minimal, sleek, and modern To-Do application built with Flutter. N O V A featu
 
 ## 📸 Screenshots
 
-*(Replace the links below with the actual paths to your screenshot images once you upload them to GitHub. A common practice is to create an `assets/screenshots/` folder in your repo.)*
-
 <div align="center">
-  <img src="assets/screenshots/1.png" width="250">
-  <img src="assets/screenshots/2.png" width="250">
-  <img src="assets/screenshots/3.png" width="250" >
-  <img src="assets/screenshots/4.png" width="250" >
-  <img src="assets/screenshots/5.png" width="250">
+  <img src="assets/screenshots/1.png" width="250" alt="Home Screen">
+  <img src="assets/screenshots/2.png" width="250" alt="Home Screen">
+  <img src="assets/screenshots/3.png" width="250" alt="Home Screen">
+  <img src="assets/screenshots/4.png" width="250" alt="Home Screen">
+  <img src="assets/screenshots/5.png" width="250" alt="Home Screen">
 </div>
 
 ---
@@ -52,7 +50,7 @@ Follow these steps to run the project locally on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nova-todo.git
+   git clone https://github.com/a-agouzou/nova-todo.git
    ```
 2. Navigate to the project directory:
    ```bash
